@@ -17,6 +17,7 @@ Before running the notebook, make sure you have the following prerequisites:
 - Python 3.10 and ^
 - Jupyter Notebook or JupyterLab installed
 - Internet connection to download the required dependencies, pre-trained model, and dataset
+- labels from [site](https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt)
 
 ## Technologies Used
 
